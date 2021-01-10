@@ -1,0 +1,6 @@
+Julie,200.0,false,Hamlet
+Doug,50.0,true,Rosencrantz
+Diane,300.0,false,Queen
+Gill,100.0,false,King
+Narindar,0.0,true,Narrator
+Janil,50.0,true,Singer

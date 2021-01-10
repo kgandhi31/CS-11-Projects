@@ -1,0 +1,13 @@
+Barcelona,Barcelona,38,28,9,1,99,29,93
+Athletico Madrid,Madrid,38,23,10,5,58,22,79
+Real Madrid,Madrid,38,22,10,6,94,44,76
+Valencia,Valencia,38,22,7,9,65,38,73
+Villarreal,Villarreal,38,18,7,13,57,50,61
+Real Betis,Seville,38,18,6,14,60,61,60
+Sevilla,Seville,38,17,7,14,49,58,58
+Getafe,Getafe,38,15,10,13,42,33,55
+Eibar,Eibar,38,14,9,15,44,50,51
+Girona,Girona,38,14,9,15,50,59,51
+Espanyol,Barcelona,38,12,13,13,36,42,49
+Celta Vigo,Vigo,38,13,10,15,59,60,49
+Couprie United,Seville,38,34,1,3,55,3,103

@@ -1,0 +1,106 @@
+﻿Heeyong Park,34,Ice Climber,South Korea,1,Heeyong,male,340
+Karine Abrahim,31,Hairdresser,Brazil,1,Karine,female,10
+Takehide Sato,34,Crossfit Coach,Japan,1,Takehide,male,40
+Toyohiko Kubota,40,Sports School Owner,Japan,1,Toyohiko,male,40
+Myon Tuk Han,33,Fitness Model,South Korea,1,Myon,male,30
+Marcus Ertelt,37,Actor,Germany,1,Marcus,male,50
+Shaun Provost,26,Obstacle Course Racer,United States,1,Shaun,male,50
+Shinobi Poli,31,Parkour Teacher,United States,1,Shinobi,female,40
+Ricardo de Oliviera,24,Parkour Instructor,Brazil,1,Ricardo,male,160
+Matias Chavez,29,Parkour Athelte,Mexico,1,Matias,male,100
+Omar Zamitiz,36,Rehab Trainer,Mexico,1,Omar,male,150
+Simon Brunner,18,College Student,Germany,1,Simon,male,290
+David Manthei,20,Architecture Student,Germany,2,David,male,240
+Simone de Araujo,34,Capoeira Instructor,Brazil,2,Simone,female,10
+Marcel Tratnik,34,Lifeguard,Germany,2,Marcel,male,40
+Yoshifumi Fujita,28,Strongman,Japan,2,Yoshifumi,male,40
+Hanah Jamroz,21,Online Personal Trainer,United States,2,Hanah,female,40
+Shoji Nakayama,37,Comedian,Japan,2,Shoji,male,40
+Angelica Melo,20,Communications Student,Mexico,2,Angelica,female,100
+Jacobo Luchtan,26,Technology Firm COO,Mexico,2,Jacobo,male,90
+Johannes Gimelin,33,Crossfit Gym Owner,Brazil,2,Johannes,male,160
+Jinbong Lee,29,Former Special Forces,South Korea,2,Jinbong,male,180
+Koohun Lee,32,Crossfit Athlete,South Korea,2,Koohun,male,60
+Ed Moses,35,Olympic Swimmer,United States,2,Ed,male,220
+Steven Tucker,29,Rock Climbing Instructor,United States,3,Steven,male,210
+Carol Valim,33,Circus Performer,Brazil,3,Carol,female,20
+Kerstin Schoessler,33,Sport Scientist,Germany,3,Kerstin,female,10
+Hiroyuki Tanaka,25,Tech Consultant,Japan,3,Hiroyuki,male,20
+Kyoung Duck Kang,33,Personal Trainer,South Korea,3,Kyoung,female,20
+Joel Pusitzky,26,Professional Model,Germany,3,Joel,male,80
+Maki Morishima,32,Pole Dancer,Japan,3,Maki,female,70
+Taeyoung Lee,29,Stunt Director,South Korea,3,Taeyoung,male,80
+Marcel Scarpim,33,Engineer,Brazil,3,Marcel,male,120
+Fernando Casanova,37,Musician,Mexico,3,Fernando,male,90
+Ryan Scott,32,Financial Advisor,United States,3,Ryan,male,110
+Emmanuel Chiang,22,Law Student,Mexico,3,Emmanuel,male,270
+Philip Meyer,23,Soldier,Germany,4,Philip,male,240
+Yuki Fukumoto,25,Professional Dancer,Japan,4,Yuki,female,10
+Cortni Joyner,30,Professional Soccer Player,United States,4,Cortni,female,30
+Juan Bernardo,30,Criminal Lawyer,United States,4,Juan,male,40
+Jonas Kegelmann,19,Parkour Instructor,Germany,4,Jonas,male,100
+Jalil Al Akabani,29,Store Owner,Mexico,4,Jalil,male,60
+Jongsuk Kim,26,Personal Trainer,South Korea,4,Jongsuk,male,40
+Marcel Stevanin,25,Parkour Athlete,Brazil,4,Marcel,male,160
+Eduardo Oliveira,33,PE Teacher,Brazil,4,Eduardo,male,120
+Yuji Urushihara,37,Shoes Salesman,Japan,4,Yuji,male,110
+Taeho Kwon,31,Actor and Fitness Model,South Korea,4,Taeho,male,270
+Roberto Perez,25,Student,Mexico,5,Roberto,male,310
+Michael Pela,26,Lawyer,Germany,5,Michael,male,10
+Georgina Castillo,34,Single Mom,Mexico,5,Georgina,female,20
+Sungsong Chang,20,Swim Trainer,South Korea,5,Sungsong,male,20
+Chico Salgado,33,Martial Arts Instructor,Brazil,5,Chico,male,30
+Satoshi Mashito,38,Arm Wrestling Fighter,Japan,5,Satoshi,male,110
+Todd Wise,29,Crossfit Gym Owner,United States,5,Todd,male,20
+Alfredo Bermudes,34,Acrobat,Brazil,5,Alfredo,male,140
+Tomomichi Shiozaki,28,Fireghter,Japan,5,Tomomichi,male,110
+Charles Robinson,25,Veteran,United States,5,Charles,male,200
+Hyunho Kim,30,Crossfit Coach,South Korea,6,Hyunho,male,240
+Guilherme Medeiros,35,BOPE Cop,Brazil,6,Guilherme,male,30
+Eiji Semba,28,Personal Trainer,Japan,6,Eiji,male,10
+Julio Córdova,28,Jiu Jitsu Fighter,Mexico,6,Julio,male,30
+Lindsay Andrew,33,Crossfit Athlete,United States,6,Lindsay,female,10
+Phelipe Young,25,Acrobata de Circo,Brazil,6,Phelipe,male,50
+Marco Cerullo,27,Bartender,Germany,6,Marco,male,50
+Daesung Oh,31,Personal Trainer,South Korea,6,Daesung,male,30
+Silke Sollfrank,18,Student,Germany,6,Silke,female,180
+Akio Shimofuji,29,Office Employee,Japan,6,Akio,male,150
+Trevor Carter,32,Firefighter,United States,6,Trevor,male,180
+Santiago López,29,Wine Maker,Mexico,6,Santiago,male,200
+Kaori Sakai,30,Service representative,Japan,7,Kaori,female,40
+Thaily Amezcua,37,Novel Actress,Mexico,7,Thaily,female,30
+Brandon Douglass,27,Parkour Athlete,United States,7,Brandon,male,20
+Mimi Bonny,31,Entrepreneur,United States,7,Mimi,female,30
+Steffen Zimmermann,25,Psycologist,Germany,7,Steffen,male,50
+Daigo Nakano,28,Physiotherapist,Japan,7,Daigo,male,50
+Woochul Kim,34,Basketball Player,South Korea,7,Woochul,male,110
+César Curti,29,Mahamudra Instructor,Brazil,7,César,male,200
+Ivan Zepeda,20,Cheerleader,Mexico,7,Ivan,male,150
+Chang Suk Bang,35,Ex Special Forces,South Korea,7,Chang,male,150
+Ludwig Hefele,18,Physics Student,Germany,7,Ludwig,male,250
+Felipe Camargo,24,Professional Climber,Brazil,7,Felipe,male,260
+Jonathan Collins,33,Track Coach and Model,United States,8,Jonathan,male,260
+Rafael Picolo,31,Surf Instructor,Brazil,8,Rafael,male,40
+Julia Habitzreither,30,Medical Student,Germany,8,Julia,female,30
+Claudia Lopez,33,Lawyer,Mexico,8,Claudia,female,10
+Isaiah Stanback,31,Ex NFL Player,United States,8,Isaiah,male,10
+Marcelo Munhoz,23,Triathlon Athlete,Brazil,8,Marcelo,male,40
+Adrian Raya,31,Frontenis Player,Mexico,8,Adrian,male,100
+Yunhwan Kim,22,Gymnast,South Korea,8,Yunhwan,male,60
+Adrien Ngouah-Ngally,19,Mover and Student,Germany,8,Adrien,male,120
+Yoshitaro Fujiwara,27,Professional Trainer,Japan,8,Yoshitaro,male,120
+Tobito Okayasu,29,Actor,Japan,8,Tobito,male,170
+Yungyung Kim,20,Gymnast,South Korea,8,Yungyung,male,240
+Ken Corigliano,35,Air Force Major,United States,9,Ken,male,280
+Mirella Araujo,39,Dancer,Brazil,9,Mirella,female,10
+Alexander Schmidt,24,Professional Acrobat,Germany,9,Alexander,male,30
+Amancay Gonzalez,26,Athletic Spokesperson,Mexico,9,Amancay,female,30
+Abe Green,32,Graphic Designer,Mexico,9,Abe,male,30
+Mitsuteru Tanaka,28,Muscleman Entertainer,Japan,9,Mitsuteru,male,90
+Woosung Yu,35,Mixed Martial Arts Fighter,South Korea,9,Woosung,male,70
+Bruno Nogueira,30,US Army Veteran,Brazil,9,Bruno,male,170
+Taeyoon Kim,26,Parkour Coach,South Korea,9,Taeyoon,male,150
+Brian Redard,30,Personal Trainer,United States,9,Brian,male,150
+Nam Vo,25,Mechanical Engineering Student,Germany,9,Nam,male,180
+Vidyut Jammwal,36,Actor,India,10,Vidyut,male,500
+Brian Pendlebury,36,Teacher,Canada,10,Brian,male,501
